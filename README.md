@@ -1,7 +1,5 @@
 # Николай Чистов
 
-![](https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/code.gif)
-
 ## Обо мне
 
 Я начал программировать, когда мне было 10 лет.
