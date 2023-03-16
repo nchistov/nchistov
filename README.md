@@ -26,6 +26,10 @@
 
 [GitFlic](https://gitflic.ru/user/nchistov)
 
+<a href="https://stackexchange.com/users/25636877"><img src="https://stackexchange.com/users/flair/25636877.png" width="208" height="58" alt="Профиль участника nchistov в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника nchistov в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+
+---
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nchistov)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nchistov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
