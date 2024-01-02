@@ -1,31 +1,21 @@
-# Николай Чистов
+<div align="center">
 
-## Обо мне
+# Hi 👋, I'm Nikolay Chistov!
 
-Я начал программировать, когда мне было 10 лет.
-
-А на следующий год я начал создавать непростые проекты, такие как [Pyne](https://gitflic.ru/project/pyne/pyne).
-
----
-
-Я знаю [Python](https://www.python.org/), когда-то начинал изучать [C](https://www.cprogramming.com/).
-
-Также я знаю C# и Unity.
-
-Хочу в будущим создать язык программирования.
+### I'm Python and GoLang developer.
+### Using and "loving" linux!
 
 ---
 
-Мне нравится pygame и визуализация данных.
+#### My stats:
 
-## Контакты
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nchistov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[GitFlic](https://gitflic.ru/user/nchistov)
-
-<a href="https://stackexchange.com/users/25636877"><img src="https://stackexchange.com/users/flair/25636877.png" width="208" height="58" alt="Профиль участника nchistov в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника nchistov в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+[![nchistov's GitHub stats](https://github-readme-stats.vercel.app/api?username=nchistov)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nchistov)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nchistov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#### My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,go,git,vscode,idea,replit,stackoverflow,linux,github,markdown,blender)](https://skillicons.dev)
+</div>
