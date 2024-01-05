@@ -3,7 +3,7 @@
 # Hi 👋, I'm Nikolay Chistov!
 
 ### I'm Python and GoLang developer.
-### Using and "loving" linux!
+### Using and "loving" Linux!
 
 ---
 
