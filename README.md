@@ -17,5 +17,5 @@
 
 #### My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,git,vscode,idea,replit,stackoverflow,linux,github,markdown,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,js,git,vscode,pycharm,regex,replit,stackoverflow,linux,mint,github,markdown,blender,gmail)](https://skillicons.dev)
 </div>
