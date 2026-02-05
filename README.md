@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Nikolay Chistov!
+# Hi 👋, I'm "Red Terminator"!
 
 ### I'm Python and GoLang developer.
 ### Using and "loving" Linux!
